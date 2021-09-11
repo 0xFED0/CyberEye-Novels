@@ -1,7 +1,7 @@
 theme: jekyll-theme-hacker
 
 titles_from_headings:
-  enabled:     true
+  enabled:     false
   strip_title: false
   collections: false
 
@@ -10,7 +10,7 @@ relative_links:
   collections: false
 
 readme_index:
-  enabled:          false
+  enabled:          true
   remove_originals: false
   with_frontmatter: false
 
