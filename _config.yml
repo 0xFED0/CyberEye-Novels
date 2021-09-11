@@ -11,5 +11,4 @@ readme_index:
 
 plugins:
   - jekyll-relative-links
-  - jekyll-paginate
   - jekyll-readme-index
