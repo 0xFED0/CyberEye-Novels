@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Node-FD2D
+title: ^ Node-FD2D
 parent: Топология и хронология мира
 ---
 
