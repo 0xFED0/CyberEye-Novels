@@ -1,7 +1,7 @@
 ---
 layout: default
-published: true
 title: Кибер-время
+parent: Законы кибер-вселенной
 ---
 
 # Кибер-время

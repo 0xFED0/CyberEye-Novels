@@ -1,3 +1,11 @@
+---
+title: Создержание
+layout: default
+permalink: /contents
+published: true
+nav_order: 1
+---
+
 # Table of contents
 
 * [CyberEye novels](README.md)

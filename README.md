@@ -1,8 +1,10 @@
 ---
+title: Общие сведения
 description: Novels about programs living in cyberspace.
 layout: default
 permalink: /
 published: true
+nav_order: 2
 ---
 
 # CyberEye novels
