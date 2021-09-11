@@ -1,1 +1,15 @@
 theme: jekyll-theme-hacker
+
+relative_links:
+  enabled:     true
+  collections: false
+
+readme_index:
+  enabled:          true
+  remove_originals: false
+  with_frontmatter: false
+
+plugins:
+  - jekyll-relative-links
+  - jekyll-paginate
+  - jekyll-readme-index
