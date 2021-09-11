@@ -1,3 +1,10 @@
 remote_theme: pmarsceill/just-the-docs
 
 color_scheme: dark
+
+relative_links:
+  enabled:     true
+  collections: false
+
+plugins:
+  - jekyll-relative-links
