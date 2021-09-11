@@ -1,5 +1,8 @@
 ---
 description: Novels about programs living in cyberspace.
+layout: default
+permalink: /
+published: true
 ---
 
 # CyberEye novels
