@@ -6,16 +6,7 @@ published: true
 nav_order: 1
 ---
 
-# Содержание
-
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
+# Table of contents
 
 * [CyberEye novels](README.md)
 * [Chronicles](stories/README.md)
