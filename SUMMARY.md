@@ -11,7 +11,7 @@ nav_order: 1
 * [CyberEye novels](README.md)
 * [Chronicles](stories/README.md)
   * [Code-city](stories/code-city/README.md)
-    * [Log-00001](stories/code-city/log-00001.md)
+    * [Log-FD2D-00001](stories/code-city/log-00001.md)
 * [CyberEye novels](undefined.md)
 * [Topology-and-timeline](topology-and-timeline/README.md)
   * [Node-FD2D](topology-and-timeline/node-fd2d.md)
