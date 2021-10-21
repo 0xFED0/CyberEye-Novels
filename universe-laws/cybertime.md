@@ -2,6 +2,8 @@
 layout: default
 title: Кибер-время
 parent: Законы кибер-вселенной
+published: true
+nav_order: 3
 ---
 
 # Кибер-время

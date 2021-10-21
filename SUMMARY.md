@@ -16,6 +16,7 @@ nav_order: 1
 * [Topology-and-timeline](topology-and-timeline/README.md)
   * [Node-FD2D](topology-and-timeline/node-fd2d.md)
 * [Universe-laws](universe-laws/README.md)
-  * [Кибер-время](universe-laws/cybertime.md)
+  * [Introduction](universe-laws/introduction.md)
   * [Overview](universe-laws/overview.md)
+  * [Кибер-время](universe-laws/cybertime.md)
 
